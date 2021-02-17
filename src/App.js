@@ -1,4 +1,3 @@
-
 function App() {
   return (
     <section className="App h-screen w-full flex justify-center items-center bg-green-500 ">
